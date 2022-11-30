@@ -1,0 +1,10 @@
+^E:\REPO\OGL\OGL\EXTERNAL\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SE:/repo/ogl/ogl -BE:/repo/ogl/ogl/msvc_build --check-stamp-file E:/repo/ogl/ogl/msvc_build/external/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

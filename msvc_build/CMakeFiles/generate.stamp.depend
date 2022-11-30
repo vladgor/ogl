@@ -1,0 +1,33 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.25/Modules/CMakeCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.25/Modules/CMakeCXXInformation.cmake
+C:/Program Files/CMake/share/cmake-3.25/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files/CMake/share/cmake-3.25/Modules/CMakeGenericSystem.cmake
+C:/Program Files/CMake/share/cmake-3.25/Modules/CMakeInitializeConfigs.cmake
+C:/Program Files/CMake/share/cmake-3.25/Modules/CMakeLanguageInformation.cmake
+C:/Program Files/CMake/share/cmake-3.25/Modules/CMakeRCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.25/Modules/CMakeSystemSpecificInformation.cmake
+C:/Program Files/CMake/share/cmake-3.25/Modules/CMakeSystemSpecificInitialize.cmake
+C:/Program Files/CMake/share/cmake-3.25/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/Program Files/CMake/share/cmake-3.25/Modules/Compiler/MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.25/Modules/Compiler/MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.25/Modules/Compiler/MSVC.cmake
+C:/Program Files/CMake/share/cmake-3.25/Modules/FindOpenGL.cmake
+C:/Program Files/CMake/share/cmake-3.25/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.25/Modules/FindPackageMessage.cmake
+C:/Program Files/CMake/share/cmake-3.25/Modules/Platform/Windows-MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.25/Modules/Platform/Windows-MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.25/Modules/Platform/Windows-MSVC.cmake
+C:/Program Files/CMake/share/cmake-3.25/Modules/Platform/Windows.cmake
+C:/Program Files/CMake/share/cmake-3.25/Modules/Platform/WindowsPaths.cmake
+E:/repo/ogl/ogl/CMakeLists.txt
+E:/repo/ogl/ogl/external/rpavlik-cmake-modules-fe2273/CleanDirectoryList.cmake
+E:/repo/ogl/ogl/external/rpavlik-cmake-modules-fe2273/CreateLaunchers.cmake
+E:/repo/ogl/ogl/external/rpavlik-cmake-modules-fe2273/ListCombinations.cmake
+E:/repo/ogl/ogl/external/rpavlik-cmake-modules-fe2273/MSVCMultipleProcessCompile.cmake
+E:/repo/ogl/ogl/external/rpavlik-cmake-modules-fe2273/launcher-templates/targetlauncher.cmd.in
+E:/repo/ogl/ogl/external/rpavlik-cmake-modules-fe2273/launcher-templates/vcxproj.user.in
+E:/repo/ogl/ogl/msvc_build/CMakeFiles/3.25.0/CMakeCCompiler.cmake
+E:/repo/ogl/ogl/msvc_build/CMakeFiles/3.25.0/CMakeCXXCompiler.cmake
+E:/repo/ogl/ogl/msvc_build/CMakeFiles/3.25.0/CMakeRCCompiler.cmake
+E:/repo/ogl/ogl/msvc_build/CMakeFiles/3.25.0/CMakeSystem.cmake

@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\repo\ogl\ogl\tutorial16_shadowmaps\tutorial16.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\repo\ogl\ogl\common\shader.cpp">
+      <Filter>common</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\repo\ogl\ogl\common\controls.cpp">
+      <Filter>common</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\repo\ogl\ogl\common\texture.cpp">
+      <Filter>common</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\repo\ogl\ogl\common\objloader.cpp">
+      <Filter>common</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\repo\ogl\ogl\common\vboindexer.cpp">
+      <Filter>common</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="E:\repo\ogl\ogl\common\shader.hpp">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\repo\ogl\ogl\common\controls.hpp">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\repo\ogl\ogl\common\texture.hpp">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\repo\ogl\ogl\common\objloader.hpp">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\repo\ogl\ogl\common\vboindexer.hpp">
+      <Filter>common</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\repo\ogl\ogl\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="E:\repo\ogl\ogl\tutorial16_shadowmaps\ShadowMapping.vertexshader">
+      <Filter>shaders</Filter>
+    </None>
+    <None Include="E:\repo\ogl\ogl\tutorial16_shadowmaps\ShadowMapping.fragmentshader">
+      <Filter>shaders</Filter>
+    </None>
+    <None Include="E:\repo\ogl\ogl\tutorial16_shadowmaps\DepthRTT.vertexshader">
+      <Filter>shaders</Filter>
+    </None>
+    <None Include="E:\repo\ogl\ogl\tutorial16_shadowmaps\DepthRTT.fragmentshader">
+      <Filter>shaders</Filter>
+    </None>
+    <None Include="E:\repo\ogl\ogl\tutorial16_shadowmaps\Passthrough.vertexshader">
+      <Filter>shaders</Filter>
+    </None>
+    <None Include="E:\repo\ogl\ogl\tutorial16_shadowmaps\SimpleTexture.fragmentshader">
+      <Filter>shaders</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{DD7AE5F5-AC29-3DD3-A54E-A72D635359E7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="common">
+      <UniqueIdentifier>{CF3FAF60-59D4-3FD9-A5B4-D12EDD186974}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="shaders">
+      <UniqueIdentifier>{4F918CB4-D10C-32C4-897C-7E058E835E33}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
